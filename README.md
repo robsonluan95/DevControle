@@ -1,7 +1,7 @@
 
-![Logo do projeto](https://i.imgur.com/k2CqDwG.png)
+![Logo do projeto](https://i.imgur.com/YwTdivL.png)
 
-# Dev Control
+# Dev Controle
 
 ## 🔥 Introdução
 Pensando no interesse em gerenciamento de empresas, surgiu a ideia de um aplicativo web que possa auxiliar no gerenciamento de uma empresa. Baseado na organização de atendimentos e cadastros de usuários em uma plataforma, cada usuário poderia gerenciar e organizar de forma mais fácil o atendimento, caso tenha acesso às informações.
