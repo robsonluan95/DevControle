@@ -1,5 +1,5 @@
 
-![Logo do projeto](https://imgur.com/a/urkclmT)
+![Logo do projeto](https://i.imgur.com/k2CqDwG.png)
 
 # Dev Control
 
