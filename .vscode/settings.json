@@ -1,0 +1,16 @@
+{
+    "cSpell.language": "\"cSpell.language\":,\"en,pt,pt_BR\",pt-BR",
+    "window.density.editorTabHeight": "default",
+    "window.autoDetectColorScheme": true,
+    "window.closeWhenEmpty": false,
+    "window.commandCenter": false,
+    "window.confirmSaveUntitledWorkspace": true,
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.activityBar.location": "top",
+    "workbench.colorCustomizations": {},
+    "workbench.tree.indent": 25,
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.fontSize": 14,
+    "diffEditor.hideUnchangedRegions.revealLineCount": 20,
+    "editor.cursorStyle": "line"
+}
