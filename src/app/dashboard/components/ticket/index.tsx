@@ -28,8 +28,8 @@ const TicketItem = ({customer,ticket}:TicketItemProps) => {
   function handleOpenModal(){
     handleModalVisible();
     setDetailTicket({
-      ticket:ticket,
-      customer:customer
+      customer: customer,
+      ticket: ticket
     })
   }
   return (
