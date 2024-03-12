@@ -1,5 +1,5 @@
 'use client'
-import { useContext,useRef } from "react"
+import { useContext,useRef,MouseEvent } from "react"
 import { ModalContext } from "@/providers/modal"
 const ModalTicket = () => {
     const {handleModalVisible,ticket}=useContext(ModalContext)
